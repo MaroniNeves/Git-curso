@@ -4,3 +4,5 @@
 
 # Git log
 * aprendendo push
+* aprendendo pull
+* 
